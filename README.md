@@ -36,6 +36,7 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <br />
 <br />
+<br />
 
 
 ### 📕 Deployed Projects
