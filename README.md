@@ -25,6 +25,7 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 
 ### Languages and Tools:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
