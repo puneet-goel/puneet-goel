@@ -18,8 +18,8 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 <br />
 <br />
 
-![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=Puneet-goel&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Puneet's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Puneet-goel&layout=compact&langs_count=8&hide_border=true)
+![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet-goel&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Puneet's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=puneet-goel&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
@@ -62,4 +62,4 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Puneet-goel.Puneet-goel)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=puneet-goel.puneet-goel)
