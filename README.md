@@ -21,7 +21,7 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 
 <br />
 
-![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet-goel&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet-goel&show_icons=true&hide_border=true)
 ![Puneet's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=puneet-goel&layout=compact&langs_count=8&hide_border=true)
 
 
