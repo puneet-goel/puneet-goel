@@ -14,11 +14,11 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 
 ## 📕 Deployed Projects 
 - [Video Chat App](https://v-meet-puneet.netlify.app)
-- [Memories: a MERN App](https://memories-puneet.netlify.app)
 - [Keeper App](https://notekeeper-puneet.netlify.app)
 - [Multi-page Bootstrap Website](https://puneet-goel.github.io/bootstrap-website) 
 - [Countries Api DashBoard: React](https://countries-puneet.netlify.app)
 - [React Restaurant App](https://restaurant-puneet.netlify.app) 
+- [Memories: a MERN App](https://memories-puneet.netlify.app)
 
 <br />
 
