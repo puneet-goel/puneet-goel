@@ -3,7 +3,7 @@
 -->
 
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
-I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my <a href="https://drive.google.com/file/d/1pBK2RwcMNzDZUsZnUDuOjuFat58xMU_q/view?usp=sharing">Resume </a>for more details about my achievements. I’m currently looking for new opportunities. 
+I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my <a href="https://drive.google.com/file/d/1JoNUmMgyUn5H93n18-0hr3RlfNxIEZx3/view?usp=sharing">Resume </a>for more details about my achievements. I’m currently looking for new opportunities. 
 
 <br />
 
