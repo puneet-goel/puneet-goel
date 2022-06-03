@@ -2,7 +2,7 @@
 **puneet-goel/puneet-goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
 I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/1VRriJ5Ehy08SaWAUuWkS6NfRBEERWvG0/view?usp=sharing) for more details about my achievements. I’m currently looking for new opportunities. 
 
 
