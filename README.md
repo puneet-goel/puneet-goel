@@ -8,7 +8,7 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 
 ## 📕 Deployed Projects 
 - [Video Chat App](https://v-meet-puneet.netlify.app)
-- [Memories: MERN App](https://memories-puneet.netlify.app)
+- [Social Media: MERN App](https://memories-puneet.netlify.app)
 - [JWT Authentication](https://jwt-auth-puneet.netlify.app)
 - [Keeper App](https://notekeeper-puneet.netlify.app)
 - [Multi-page Bootstrap Website](https://puneet-goel.github.io/bootstrap-website) 
