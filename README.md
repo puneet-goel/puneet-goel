@@ -3,17 +3,14 @@
 -->
 
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
-I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/1TJxt44El5tjLRX2TmrSjxRNItnnfciBE/view?usp=sharing) for more details about my achievements. I’m currently looking for new opportunities. 
 
+I am an aspiring software developer currently enrolled in a B.Tech program in Information Technology at USICT, GGSIPU (2019-2023). I am actively seeking new opportunities to further my career. Please refer to my [Resume](https://drive.google.com/file/d/1TJxt44El5tjLRX2TmrSjxRNItnnfciBE/view?usp=sharing) for more details about my achievements and qualifications.
 
-## 📕 Deployed Projects 
+## 📕 Personal Projects 
 - [Video Chat App](https://v-meet-puneet.netlify.app)
+- [Ecommerce Next.js App](https://ecommerce-nextjs-puneet.vercel.app/)
 - [Social Media: MERN App](https://memories-puneet.netlify.app)
 - [JWT Authentication](https://jwt-auth-puneet.netlify.app)
-- [Keeper App](https://notekeeper-puneet.netlify.app)
-- [Multi-page Bootstrap Website](https://puneet-goel.github.io/bootstrap-website) 
-- [Countries Api DashBoard: React](https://countries-puneet.netlify.app)
-- [React Restaurant App](https://restaurant-puneet.netlify.app) 
 
 <br />
 
@@ -44,11 +41,8 @@ I’m a MERN Stack Developer and a Competitive Programmer. I'm currently pursuin
 <a href="mailto:puneetgoel016@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/>
 </a>
-<a href="https://leetcode.com/puneet_goel">
-  <img align="left" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-</a>
-<a href="https://www.codechef.com/users/puneet_goel">
-  <img align="left" width="26px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>
+<a href="https://twitter.com/gl_puneet">
+  <img align="left" width="26px" src="https://img.icons8.com/?size=512&id=13963&format=png"/>
 </a>
 
 <br />
