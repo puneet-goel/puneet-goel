@@ -4,7 +4,7 @@
 
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
 
-I am an aspiring software developer currently enrolled in a B.Tech program in Information Technology at USICT, GGSIPU (2019-2023). I am actively seeking new opportunities to further my career. Please refer to my [Resume](https://drive.google.com/file/d/1TJxt44El5tjLRX2TmrSjxRNItnnfciBE/view?usp=sharing) for more details about my achievements and qualifications.
+I am an Associate Software Engineer at IVP. I have done my graduation in B.Tech in Information Technology at USICT, GGSIPU. I am actively seeking new opportunities to further my career. Please refer to my [Resume](https://drive.google.com/file/d/1TJxt44El5tjLRX2TmrSjxRNItnnfciBE/view?usp=sharing) for more details about my achievements and qualifications.
 
 ## 📕 Personal Projects 
 - [Video Chat App](https://v-meet-puneet.netlify.app)
