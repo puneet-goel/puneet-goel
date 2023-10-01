@@ -2,7 +2,7 @@
 **puneet-goel/puneet-goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) !
+<b> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Puneet Goel](https://www.linkedin.com/in/gl-puneet/) ! </b>
 
 I am currently working as an Associate Software Engineer at Indus Valley Partners. I have done my graduation in B.Tech in Information Technology at USICT, GGSIPU. I am actively seeking new opportunities to further my career. Please refer to my [Resume](https://drive.google.com/file/d/1TJxt44El5tjLRX2TmrSjxRNItnnfciBE/view?usp=sharing) for more details about my achievements and qualifications.
 
