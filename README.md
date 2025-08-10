@@ -20,15 +20,20 @@ I am currently working as an Associate Software Engineer at Indus Valley Partner
 
 ## Languages and Tools:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
+<img align="left" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
+<img align="left" alt=".Net" width="40px" src="https://img.icons8.com/color/50/000000/net-framework.png" />
+<img align="left" alt="AWS" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
-<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
+<img align="left" alt="Nodejs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
+<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/color/48/000000/sql.png" /> 
 
 <br />
 <br />
@@ -42,6 +47,9 @@ I am currently working as an Associate Software Engineer at Indus Valley Partner
 </a>
 <a href="https://twitter.com/gl_puneet">
   <img align="left" width="26px" src="https://img.icons8.com/?size=512&id=13963&format=png"/>
+</a>
+<a href="https://medium.com/@puneetgoel016">
+  <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/medium-logo.png"/>
 </a>
 
 <br />
